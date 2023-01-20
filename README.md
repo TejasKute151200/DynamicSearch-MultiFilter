@@ -1,9 +1,10 @@
 # DynamicSearch-MultiFilter
 Search And Filter
 
------------------------------------------------------------------------>
- Multi Filter                                                                                                                            	Fri, Jan 20, 2023 at 4 PM
------------------------------------------------------------------------>							
+
+----------------->
+ Multi Filter ||	Fri, Jan 20, 2023 at 4 PM
+<-----------------
 
 Details:
 Create a table employee with following details
