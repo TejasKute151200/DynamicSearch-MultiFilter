@@ -23,11 +23,8 @@ import lombok.ToString;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@ToString
 @Entity
 @Table(name = "designation")
-@Where(clause = "is_active=true")
-@SQLDelete(sql = "UPDATE designation SET is_active=false WHERE id=?")
 public class DesignationEntity {
 
 	@Id
